@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Audmap
-=======
 # Audmap - Advanced Audio Analysis Application
 
 ![image](https://github.com/user-attachments/assets/911bcfca-5ab0-4490-9307-23c7dbe8b11e)
@@ -72,4 +69,3 @@ Audmap is an advanced audio analysis application designed to analyze audio files
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/audmap.git
->>>>>>> b2fed8d565a594840a2b7dcb69aff2ba5f1d2656

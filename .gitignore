@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -169,3 +170,51 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+=======
+# Python bytecode
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.log
+*.sqlite3
+
+# Virtual environment
+env/
+venv/
+.venv/
+env.bak/
+*.env
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+*.spec
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Kivy/Buildozer files
+*.apk
+*.keystore
+.buildozer/
+*.log
+
+# Docker files
+*.pid
+docker-compose.override.yml
+
+# Matplotlib caches
+.matplotlib_cache/
+
+# Plotly caches
+.plotly/
+>>>>>>> b2fed8d565a594840a2b7dcb69aff2ba5f1d2656

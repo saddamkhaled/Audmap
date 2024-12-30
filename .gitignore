@@ -1,4 +1,6 @@
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -171,6 +173,7 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 =======
+>>>>>>> aba3cd10c3d9a9323a4288f8eb9c1dff66e2749c
 # Python bytecode
 *.pyc
 *.pyo
@@ -217,4 +220,7 @@ docker-compose.override.yml
 
 # Plotly caches
 .plotly/
+<<<<<<< HEAD
+=======
 >>>>>>> b2fed8d565a594840a2b7dcb69aff2ba5f1d2656
+>>>>>>> aba3cd10c3d9a9323a4288f8eb9c1dff66e2749c

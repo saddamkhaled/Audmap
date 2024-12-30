@@ -68,12 +68,11 @@ Audmap is an advanced audio analysis application designed to analyze audio files
 
 1. Clone the repository:
    ```bash
-<<<<<<< HEAD
    git clone https://github.com/your-username/audmap.git
 =======
    git clone https://github.com/saddamkhaled/audmap.git
 
----
+
 
 This project is a Python-based application that uses **Tkinter** for GUI, **FFmpeg** for multimedia processing, and other Python libraries for audio analysis and visualization. The application is containerized using Docker for easy setup and deployment.
 
@@ -167,4 +166,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
->>>>>>> aba3cd10c3d9a9323a4288f8eb9c1dff66e2749c

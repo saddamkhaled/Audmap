@@ -1,4 +1,3 @@
-# main.py
 import logging
 import multiprocessing
 from tkinter import messagebox
